@@ -19,7 +19,7 @@ Because this program is built using standard vanilla web technologies, you can r
 1. Download or clone this project folder to your machine.
 2. Ensure all three core files (index.html, parser.js, and jspdf.js) are sitting together in the same directory.
 3. Open your project folder, right-click index.html, and select Open with Live Server inside VS Code (or double-click the file to open it in your preferred internet browser).
-4. Drag and drop any .ase palette file onto the canvas area to process your colors!
+4. Drag and drop any `.ase` palette file onto the canvas area to process your colors! (If you don't have one handy, you can download and use the sample `HEADSTONE_UI_PALETTE.ASE` file included right here in this repository).
 
 Technical Specifications
 
